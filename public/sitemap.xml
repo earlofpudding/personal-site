@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://rafaq.xyz/articles/</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rafaq.xyz/posts/grvy/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
