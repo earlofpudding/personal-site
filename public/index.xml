@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafaq Abran</title>
+    <link>http://rafaq.xyz/</link>
+    <description>Recent content on Rafaq Abran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://rafaq.xyz/" rel="self" type="application/rss+xml" />
+
+    
+      <item>
+        <title>Posts</title>
+        <link>http://rafaq.xyz/posts/</link>
+        <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://rafaq.xyz/posts/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+  </channel>
+</rss>

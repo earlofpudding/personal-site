@@ -1,0 +1,10 @@
+baseURL: "http://rafaq.xyz"
+languageCode: "en-gb"
+title: "Rafaq Abran"
+theme: "hugo-tania"
+params:
+    titleEmoji: '🌊'
+    AuthorName: "me"
+    socialOptions:
+        github: "https://github.com/earlofpudding/"
+        linkedin: "https://www.linkedin.com/in/rafaq/"
