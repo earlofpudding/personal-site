@@ -1,0 +1,18 @@
+baseURL = "https://rafaq.xyz/"
+languageCode = "en-us"
+title = "Blog"
+theme = "lekh"
+
+[params]
+Name = "Rafaq Abran"
+About = "Thoughts on stuff"
+Email = "me@rafaq.xyz"
+PostLimit = 4 # Sets the number of posts to display on the front page
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/earlofpudding"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/rafaq/"
