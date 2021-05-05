@@ -35,7 +35,7 @@ When developing our forecasts we considered the following factors:
 
 ## 3.1 Macroeconomic and Geopolitical Risks
 
-Being that Gravity operates in South Korea and their major target market is the East Asian video game market it is imperative. A concern for the gaming industry in general is the intense competition that is present in Asia. With new companies creating new innovative games and older companies expanding on successful games they created, there is no space for errors. In terms of macroeconomic risk, the gaming industry is relative uncorrelated to changes in Korea’s economic health. One could argue that a decline in any economy could drive youth consumers to playing more games. In terms of geopolitical risk, one big issue would center around the uses of the community forum. An example would be how in-game content of the popular multiplayer shooting game “Fortnite” was banned in China for being too violent. 
+Being that Gravity operates in South Korea and their major target market is the East Asian video game market. A concern for the gaming industry in general is the intense competition that is present in Asia. With new companies creating new innovative games and older companies expanding on successful games they created, there is no space for errors. In terms of macroeconomic risk, the gaming industry is relative uncorrelated to changes in Korea’s economic health. One could argue that a decline in any economy could drive youth consumers to playing more games. In terms of geopolitical risk, one big issue would center around the uses of the community forum. An example would be how in-game content of the popular multiplayer shooting game “Fortnite” was banned in China for being too violent. 
 
 ## 3.2 Marketing
 
