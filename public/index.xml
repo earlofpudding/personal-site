@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
+    <title>Rafaq Abran</title>
     <link>https://rafaq.xyz/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content on Rafaq Abran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>No Content License</copyright>
     <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaq.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>

@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://rafaq.xyz/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rafaq.xyz/posts/grvy/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +18,8 @@
   </url>
   
   <url>
-    <loc>https://rafaq.xyz/categories/</loc>
+    <loc>https://rafaq.xyz/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
