@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rafaq Abran</title>
-    <link>http://rafaq.xyz/posts/</link>
-    <description>Recent content in Posts on Rafaq Abran</description>
+    <title>Posts on Blog</title>
+    <link>https://rafaq.xyz/posts/</link>
+    <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://rafaq.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaq.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GRVY: Gravity Analysis</title>
-      <link>http://rafaq.xyz/posts/grvy/</link>
+      <link>https://rafaq.xyz/posts/grvy/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://rafaq.xyz/posts/grvy/</guid>
+      <guid>https://rafaq.xyz/posts/grvy/</guid>
       <description>1.0 Introduction In this article we will prove that Gravity Co. Ltd. (“The Company” or “Gravity”) is over-valued at the current trading price of $190. Considering that we do not anticipate subscription revenue or royalties and fees to increase substantially the valuation of Gravity depends almost exclusively on the growth of the mobile game revenue streams.
 The process of proving future outcomes is difficult, we believe by approaching the valuation with epistemological uncertainty in mind (Tannert, 2007) and providing a structured framework a sufficient conclusion can be reached.</description>
     </item>
