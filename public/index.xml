@@ -1,30 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rafaq Abran</title>
-    <link>https://rafaq.xyz/</link>
-    <description>Recent content on Rafaq Abran</description>
+    <title>Rafaq Abran - Posts</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Rafaq Abran - Posts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>No Content License</copyright>
-    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaq.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Articles</title>
-      <link>https://rafaq.xyz/articles/</link>
+      <link>/articles/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rafaq.xyz/articles/</guid>
-      <description></description>
+      <guid>/articles/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
       <title>GRVY: Gravity Analysis</title>
-      <link>https://rafaq.xyz/posts/grvy/</link>
+      <link>/posts/grvy/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rafaq.xyz/posts/grvy/</guid>
-      <description>1.0 Introduction In this article we will prove that Gravity Co. Ltd. (“The Company” or “Gravity”) is over-valued at the current trading price of $190. Considering that we do not anticipate subscription revenue or royalties and fees to increase substantially the valuation of Gravity depends almost exclusively on the growth of the mobile game revenue streams.
-The process of proving future outcomes is difficult, we believe by approaching the valuation with epistemological uncertainty in mind (Tannert, 2007) and providing a structured framework a sufficient conclusion can be reached.</description>
+      <guid>/posts/grvy/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          1.0 Introduction In this article we will prove that Gravity Co. Ltd. (“The Company” or “Gravity”) is over-valued at the current trading price of $190. Considering that we do not anticipate subscription revenue or royalties and fees to increase substantially the valuation of Gravity depends almost exclusively on the growth of the mobile game revenue streams.
+The process of proving future outcomes is difficult, we believe by approaching the valuation with epistemological uncertainty in mind (Tannert, 2007) and providing a structured framework a sufficient conclusion can be reached.
+          
+        
+        </description>
     </item>
     
   </channel>

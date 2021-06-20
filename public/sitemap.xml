@@ -3,27 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rafaq.xyz/articles/</loc>
+    <loc>/articles/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaq.xyz/posts/grvy/</loc>
+    <loc>/posts/grvy/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaq.xyz/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaq.xyz/</loc>
+    <loc>/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rafaq.xyz/tags/</loc>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
