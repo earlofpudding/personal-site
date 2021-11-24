@@ -16,5 +16,14 @@
 
 <script src="{{ "assets/main.js" | absURL }}"></script>
 <script src="{{ "assets/prism.js" | absURL }}"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RWXXGP8DTJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RWXXGP8DTJ');
+</script>
 
 {{- partial "extended_footer.html" . }}
